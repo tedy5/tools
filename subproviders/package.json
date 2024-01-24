@@ -53,7 +53,7 @@
         "bip39": "2.5.0",
         "ethereum-types": "^3.7.1",
         "ethereumjs-util": "^7.1.5",
-        "ganache": "^7.4.0",
+        "ganache": "^7.9.2",
         "hdkey": "2.1.0",
         "json-rpc-error": "2.0.0",
         "lodash": "^4.17.21",
